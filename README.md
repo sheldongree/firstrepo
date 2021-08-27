@@ -1,4 +1,4 @@
 # firstrepo
-This is my firdr repository
+This is my first repository
 
 Table of contents
