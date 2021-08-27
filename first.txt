@@ -1,0 +1,3 @@
+Hello this is my first lab
+Setting up git
+Making new contents
